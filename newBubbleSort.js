@@ -28,7 +28,6 @@ function ramiBubbleSort(arr) {
     swapped = false;
   }
   return array;
-  // Only change code above this line
 }
 
 
