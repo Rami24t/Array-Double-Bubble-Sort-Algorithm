@@ -1,6 +1,10 @@
 # New-Array-Bubble-Sort-Algorithm
 A new sorting algorithm that sorts starting from both ends of the array
 
+## Performance comparison with bubbleSort on https://jsbench.me/
+![Compare](https://github.com/Rami24t/New-Array-Bubble-Sort-Algorithm/assets/103028944/5acf80dc-ef7d-49eb-8918-7ce09b161398)
+
+
 function ramiBubbleSort(arr) {
   const array = [...arr];
   let temp = 0;
