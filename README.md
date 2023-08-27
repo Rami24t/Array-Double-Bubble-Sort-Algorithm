@@ -5,7 +5,7 @@ A new sorting algorithm that sorts starting from both ends of the array
 ![Compare](https://github.com/Rami24t/New-Array-Bubble-Sort-Algorithm/assets/103028944/5acf80dc-ef7d-49eb-8918-7ce09b161398)
 
 
-function ramiBubbleSort(arr) {
+function doubleBubbleSort(arr) {
   const array = [...arr];
   let temp = 0;
   let keepGoing1 = true;
